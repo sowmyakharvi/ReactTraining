@@ -39,7 +39,7 @@ export default class MySignComponent extends Component{
         //after render
         componentDidMount(){
             console.log("component Did Mount..")
-            document.querySelector("h3").style.color = 'red'
+           // document.querySelector("h3").style.color = 'red'
            
         }
 
